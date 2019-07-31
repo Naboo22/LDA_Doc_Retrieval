@@ -1,1 +1,1 @@
-# LDA_Doc_Retrieval
+# LDA and Wikipedia PMI for Document Retrieval
